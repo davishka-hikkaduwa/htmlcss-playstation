@@ -4,13 +4,6 @@
     color: white;
 }
 
-
-/***** CONTENT *****/
-
-header img {
-    height: 20px;
-}
-
 .dh-btn-radius {
     border-radius: 20px;
 
@@ -18,4 +11,11 @@ header img {
 
 .dh-fs-7 {
     font-size: 14px;
+}
+
+
+/***** CONTENT *****/
+
+header img {
+    height: 20px;
 }
