@@ -24,16 +24,24 @@
 body {}
 
 header img {
-    height: 20px;
+    width: 75px;
 }
 
 /* SECTION returnal-game */
-#returnal-game {
-    background-image: url("../img/returnal-listing-thumb-01-ps5.jpg");
-    background-size: 100vw;
-    height: 100vw;
-    border: 1px solid red;
-    background-repeat: no-repeat;
+#jumbotron {
+    background-image: url("../img/jumbo-bg.png");
+    background-size: cover;
+    background-position: top;
+    margin-top: 8.5rem !important;
+
 }
 
 /* /SECTION returnal-game */
+
+
+/* DEBUG */
+
+.debug section {
+    border: 1px solid red;
+    /* height: 400px; */
+}
