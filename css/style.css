@@ -48,6 +48,18 @@ header img {
 /* /SECTION returnal-game */
 
 
+
+/* SECTION it-takes-two */
+#it-takes-two {
+    background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
+    background-size: cover;
+    background-position: top;
+}
+
+
+/* /SECTION it-takes-two */
+
+
 /********** DEBUG **********/
 
 .debug section {
@@ -80,6 +92,30 @@ header img {
 
 /* /SECTION ps5 */
 
+
+/* SECTION ps-plus */
 #ps-plus {
     background-color: #bebcbb;
 }
+
+#ps-plus .btn {
+    background-color: #d9dadc;
+    color: #4675e5;
+}
+
+/* /SECTION ps-plus */
+
+/* SECTION ps-now */
+#ps-now {
+    background-color: #161c3b;
+    color: #fff;
+}
+
+/* SECTION ps-now */
+
+/* SECTION nuove-uscite */
+#nuove-uscite {
+    background-color: #0e0e0e;
+}
+
+/* /SECTION nuove-uscite */
