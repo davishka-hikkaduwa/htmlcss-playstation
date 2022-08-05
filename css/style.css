@@ -9,6 +9,11 @@
     color: white;
 }
 
+.dh-bg-brown:hover {
+    background-color: #cd3d10;
+    color: white;
+}
+
 .dh-btn-radius {
     border-radius: 20px;
 
@@ -36,12 +41,45 @@ header img {
 
 }
 
+#jumbotron-content {
+    margin-top: 15rem;
+}
+
 /* /SECTION returnal-game */
 
 
-/* DEBUG */
+/********** DEBUG **********/
 
 .debug section {
     border: 1px solid red;
     /* height: 400px; */
+}
+
+/********** /DEBUG **********/
+
+.nav-link.dropdown-toggle.show {
+    display: flex;
+}
+
+/* SECTION ps5 */
+
+#ps5 h2 {
+    font-size: 2.5rem;
+}
+
+#ps5 h4 {
+    color: #3d89d6 !important;
+    text-transform: uppercase;
+    font-size: 1rem;
+}
+
+#ps5 h3 {
+    color: #737373;
+    font-size: 1.5rem;
+}
+
+/* /SECTION ps5 */
+
+#ps-plus {
+    background-color: #bebcbb;
 }
